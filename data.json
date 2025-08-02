@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "name": "Le Gourmet",
+    "city": "Paris",
+    "cuisine": "French",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Tokyo Sushi Bar",
+    "city": "Lyon",
+    "cuisine": "Japanese",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "Mama Italia",
+    "city": "Marseille",
+    "cuisine": "Italian",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Burger Factory",
+    "city": "Bordeaux",
+    "cuisine": "American",
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "name": "Curry Express",
+    "city": "Paris",
+    "cuisine": "Indian",
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "name": "Green Leaf",
+    "city": "Toulouse",
+    "cuisine": "Vegan",
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "name": "Chez Paul",
+    "city": "Paris",
+    "cuisine": "French",
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "name": "El Toro Loco",
+    "city": "Nice",
+    "cuisine": "Mexican",
+    "rating": 4.2
+  },
+  {
+    "id": 9,
+    "name": "Dragon Palace",
+    "city": "Lille",
+    "cuisine": "Chinese",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Tapas Time",
+    "city": "Montpellier",
+    "cuisine": "Spanish",
+    "rating": 4.5
+  },
+  {
+    "id": 11,
+    "name": "Pho Hanoi",
+    "city": "Paris",
+    "cuisine": "Vietnamese",
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "name": "Pita Corner",
+    "city": "Lyon",
+    "cuisine": "Greek",
+    "rating": 4.4
+  },
+  {
+    "id": 13,
+    "name": "BBQ Brothers",
+    "city": "Marseille",
+    "cuisine": "American",
+    "rating": 4.6
+  },
+  {
+    "id": 14,
+    "name": "Bistro Belle Vie",
+    "city": "Toulouse",
+    "cuisine": "French",
+    "rating": 4.5
+  },
+  {
+    "id": 15,
+    "name": "Sushi World",
+    "city": "Nice",
+    "cuisine": "Japanese",
+    "rating": 4.8
+  },
+  {
+    "id": 16,
+    "name": "La Casa",
+    "city": "Bordeaux",
+    "cuisine": "Italian",
+    "rating": 4.7
+  },
+  {
+    "id": 17,
+    "name": "Spice Route",
+    "city": "Paris",
+    "cuisine": "Indian",
+    "rating": 4.6
+  },
+  {
+    "id": 18,
+    "name": "Veggie Delights",
+    "city": "Lille",
+    "cuisine": "Vegan",
+    "rating": 4.4
+  },
+  {
+    "id": 19,
+    "name": "Le P'tit Déj",
+    "city": "Marseille",
+    "cuisine": "French",
+    "rating": 4.3
+  },
+  {
+    "id": 20,
+    "name": "Paella House",
+    "city": "Nice",
+    "cuisine": "Spanish",
+    "rating": 4.7
+  },
+  {
+    "id": 21,
+    "name": "Café du Nord",
+    "city": "Paris",
+    "cuisine": "French",
+    "rating": 4.9
+  }
+]
