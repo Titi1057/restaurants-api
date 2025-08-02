@@ -1,1 +1,61 @@
-Ce projet,, nommé restaurants-api, est une API collaborative développée avec FastAPI pour partager mes restaurants préférés en France. Pour lancer l’application, il faut d’abord cloner le dépôt GitHub, créer un environnement virtuel Python et l’activer, puis installer les dépendances listées dans requirements.txt. Ensuite, on lance le serveur avec la commande uvicorn main:app --reload et on peut accéder à la documentation interactive via http://127.0.0.1:8000/docs. Cette API permet de lister les restaurants (avec filtres par ville, cuisine, ou note), ainsi que d’ajouter, modifier ou supprimer un restaurant, en stockant les données dans un fichier JSON. Pour contribuer, il est possible de proposer ses restaurants favoris via une Pull Request, en modifiant le fichier data.json et en soumettant ces changements pour qu’ils soient intégrés au projet principal.
+Ce projet nommé restaurants-api est une API collaborative développée avec FastAPI pour partager mes restaurants préférés en France.
+
+Lancer l’application
+Cloner le dépôt GitHub :
+
+git clone https://github.com/TonUtilisateur/restaurants-api.git
+cd restaurants-api
+
+Créer un environnement virtuel Python et l’activer :
+
+python3 -m venv venv
+source venv/bin/activate
+
+Installer les dépendances :
+
+pip install -r requirements.txt
+
+Lancer le serveur FastAPI :
+
+
+uvicorn main:app --reload
+
+Accéder à la documentation interactive dans un navigateur :
+http://127.0.0.1:8000/docs
+
+Fonctionnalités
+Lister les restaurants (avec filtres par ville, cuisine, ou note)
+
+Ajouter, modifier ou supprimer un restaurant
+
+Stockage des données dans un fichier JSON
+
+Collaboration
+
+Ce projet est collaboratif et ouvert à toutes et tous !
+Si tu souhaites partager tes restaurants préférés ou améliorer l’application, n’hésite pas à contribuer.
+
+Comment contribuer ?
+Fork ce dépôt sur GitHub.
+
+Clone ta copie locale avec :
+
+git clone <URL-de-ton-fork>
+Crée une nouvelle branche pour ta contribution :
+
+git checkout -b ma-nouvelle-fonctionnalite
+
+Modifie le fichier data.json pour ajouter ou mettre à jour des restaurants, ou améliore le code.
+
+Committe tes changements :
+
+
+git add .
+git commit -m "Ajout de nouveaux restaurants"
+
+Pousse ta branche sur ton fork :
+
+git push origin ma-nouvelle-fonctionnalite
+Ouvre une Pull Request depuis ton fork vers ce dépôt principal.
+
+Les contributions sont relues et validées avant d’être intégrées. Merci pour ta participation ! 🙌
